@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Code",
+    "\\Code\\Server",
+    "\\Code\\Server\\G.CS.Utility.DAL",
+    "\\Code\\Server\\G.CS.Utility.DAL.EFCore",
+    "\\Code\\Server\\G.CS.Utility.DAL\\Db",
+    "\\Code\\Server\\G.CS.Utility.DAL\\Db\\Interface"
   ],
-  "SelectedNode": "\\G.CS.QuickTemplate.sln",
+  "SelectedNode": "\\Code\\Server\\G.CS.Utility.DAL\\Db\\Interface\\IDbConfig.cs",
   "PreviewInSolutionExplorer": false
 }
