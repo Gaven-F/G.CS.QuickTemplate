@@ -1,5 +1,4 @@
-﻿
-using G.CS.Utility.DAL.Entity.Interface;
+﻿using G.CS.Utility.DAL.Entity.Interface;
 
 namespace G.CS.Utility.DAL.Entity;
 

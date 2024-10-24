@@ -1,11 +1,11 @@
-﻿namespace G.CS.Utility.DAL.Db.Interface;
+﻿
+namespace G.CS.Utility.DAL.Db.Interface;
 
 public interface IDbConnection
 {
-	IDBConfig IDBConfig { get; set; }
+	void Close();
 
 	void Open();
 
-	void Close();
-
+	IDBConfig IDBConfig { get; set; }
 }
